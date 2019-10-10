@@ -1,0 +1,82 @@
+h1 
+  {
+      border-style: solid;
+      border-color: purple;
+      Background-color: orange;
+      color: purple;
+      padding: 20px;
+      text-align: center;
+  }
+
+h2
+  {
+      border-style: solid;
+      border-color: purple;
+      Background-color: yellow;
+      color: purple;
+      padding: 20px;
+      text-align: center;
+  }
+
+h3 
+  {
+      border-style: solid;
+      border-color: purple;
+      Background-color: orange;
+      color: purple;
+      padding: 20px;
+      text-align: center;
+  }
+p
+  {
+      border-style: solid;
+      border-color: purple;
+      background-color: orangered;
+      color: purple;
+      padding: 20px;
+      text-align: center;
+     
+  }
+li.Directory1
+   {
+       color: orange;
+   }
+
+
+.Directory1 
+  { 
+    border-style: solid;
+    border-color: purple;
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+    position: center;
+    
+  }
+
+table, th, td 
+   {
+     border: 3px solid purple;
+     border-collapse: collapse;
+     position: center;
+    padding: 10px;
+
+   }
+
+
+body 
+   {
+     background-color: lightgreen
+     
+
+
+   }   
+
+  .interests-table {
+      background-color: orange;
+      color: purple;
+      border-style: solid;
+      border-color: purple;
+      padding: 20px;
+      text-align: center;
+  }
