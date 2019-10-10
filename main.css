@@ -3,9 +3,10 @@ h1
       border-style: solid;
       border-color: purple;
       Background-color: orange;
-      color: purple;
       padding: 20px;
       text-align: center;
+      
+      
   }
 
 h2
@@ -13,7 +14,6 @@ h2
       border-style: solid;
       border-color: purple;
       Background-color: yellow;
-      color: purple;
       padding: 20px;
       text-align: center;
   }
@@ -23,7 +23,6 @@ h3
       border-style: solid;
       border-color: purple;
       Background-color: orange;
-      color: purple;
       padding: 20px;
       text-align: center;
   }
@@ -32,16 +31,10 @@ p
       border-style: solid;
       border-color: purple;
       background-color: orangered;
-      color: purple;
       padding: 20px;
       text-align: center;
      
   }
-li.Directory1
-   {
-       color: orange;
-   }
-
 
 .Directory1 
   { 
@@ -62,21 +55,55 @@ table, th, td
     padding: 10px;
 
    }
+ 
 
-
-body 
+img.main-screen
    {
-     background-color: lightgreen
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+     border: 3px solid purple;
+
+   }
+
+img 
+    {
+     margin-left: auto;
+     margin-right: auto;
+     border: solid 3px purple;
+    
+
+    }   
+
+body
+    {
+   
+    background-image: url(./assets/images/grateful-dead-bill-cannon.jpg)
      
 
 
    }   
 
-  .interests-table {
+.interests-table {
       background-color: orange;
-      color: purple;
       border-style: solid;
       border-color: purple;
       padding: 20px;
       text-align: center;
   }
+
+ol 
+   {
+    Background-color: yellow;
+    border: solid 3px purple;
+    position: center;
+    padding: 20px;
+
+   }
+
+li  
+   {
+    position: center;
+
+   }
