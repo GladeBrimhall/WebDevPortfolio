@@ -2,7 +2,11 @@ h1
   
   {
      border: 8px solid black;
-     padding: 10px;
+     border-radius: 25px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 20px;
+     padding-bottom: 20px;
      margin-left: 25%;
      font-family: sans-serif;
     background-color: lightseagreen;
@@ -12,6 +16,7 @@ h1
 h2
   {
     border: 8px solid black;
+    border-radius: 25px;
     padding: 10px;
     margin-left: 25%;
     background-color: lightsalmon;
@@ -23,6 +28,7 @@ h2
 h3
   {
     border: 8px solid black;
+    border-radius: 25px;
     padding: 10px;
     margin-left: 35%;
     background-color: lightgreen;
@@ -32,6 +38,7 @@ h3
 p
   {
     border: 8px solid black;
+    border-radius: 25px;
     padding: 10px;
     margin-left: 40%;
     background-color: rgb(245, 118, 71);
@@ -49,6 +56,7 @@ body
 ul
   {
      border: 8px solid black;
+     border-radius: 25px;
      padding: 10px;
      font-size: 20px;
      background-color: lightsalmon;
@@ -60,6 +68,7 @@ ul
 ol
   {
      border: 8px solid black;
+     border-radius: 25px;
      padding: 10px;
      font-size: 20px;
      background-color: lightseagreen;
@@ -72,6 +81,7 @@ ol
 img
    {
      border: 8px solid black;
+     border-radius: 25px;
      margin-left: auto;
      margin-right: auto;
      display: block;
@@ -82,6 +92,7 @@ img
 table 
     {
    border: 8px solid black;
+   border-radius: 25px;
    border-collapse: collapse;  
    padding: 10px; 
 
@@ -105,3 +116,4 @@ td
      font-family: sans-serif;
 
      }  
+
