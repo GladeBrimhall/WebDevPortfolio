@@ -1,0 +1,107 @@
+h1 
+  
+  {
+     border: 8px solid black;
+     padding: 10px;
+     margin-left: 25%;
+     font-family: sans-serif;
+    background-color: lightseagreen;
+
+  }
+
+h2
+  {
+    border: 8px solid black;
+    padding: 10px;
+    margin-left: 25%;
+    background-color: lightsalmon;
+    font-family: sans-serif;
+    font-size: 25px;
+
+  }  
+
+h3
+  {
+    border: 8px solid black;
+    padding: 10px;
+    margin-left: 35%;
+    background-color: lightgreen;
+    font-family: sans-serif;
+
+  } 
+p
+  {
+    border: 8px solid black;
+    padding: 10px;
+    margin-left: 10%;
+    background-color: rgb(245, 118, 71);
+    font-size: 21px;
+    font-family: sans-serif;
+
+  }  
+
+body
+  {
+     background-color: lightgray;
+
+  }
+
+ul
+  {
+     border: 8px solid black;
+     padding: 10px;
+     font-size: 20px;
+     background-color: lightsalmon;
+     margin-left: 60%;
+     text-align: right;
+     font-family: sans-serif;
+  }
+
+ol
+  {
+     border: 8px solid black;
+     padding: 10px;
+     font-size: 20px;
+     background-color: lightseagreen;
+     margin-right: 30%;
+     margin-left: 30%;
+     text-align: right;
+     font-family: sans-serif;
+  }  
+
+img
+   {
+     border: 8px solid black;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+     margin-top: 10px;
+    
+
+   }  
+table 
+    {
+   border: 8px solid black;
+   border-collapse: collapse;  
+   padding: 10px; 
+
+    }
+th  
+   {
+    border: solid 3px black;
+    padding: 5px;
+    background-color: lightgreen;
+    font-family: sans-serif;
+
+   }    
+
+td 
+     {
+     border-right: solid 3px black;  
+     border-bottom: solid 3px black;  
+     padding: 5px;
+     background-color: lightseagreen;
+     font-size: 20px;
+     font-family: sans-serif;
+
+     }  
