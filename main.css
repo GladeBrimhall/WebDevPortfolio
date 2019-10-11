@@ -99,6 +99,7 @@ img
      border: solid 3px black;
      padding-left: auto;
      padding-right: auto;
+     position: fixed;
     
 
     }   
